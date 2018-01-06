@@ -1,3 +1,9 @@
+## Generated pdf
+/Info_3_Skript*.pdf
+
+## Auctex
+/auto
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
@@ -178,3 +184,6 @@ TSWLatexianTemp*
 
 # KBibTeX
 *~[0-9]*
+
+# LaTeX
+*.rel
